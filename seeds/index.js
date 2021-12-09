@@ -10,7 +10,6 @@ const seedAll = async () => {
   console.log('\n----- DATABASE SYNCED -----\n');
   await seedCategories();
   console.log('\n----- CATEGORIES SEEDED -----\n');
-
   await seedProducts();
   console.log('\n----- PRODUCTS SEEDED -----\n');
 
@@ -23,4 +22,4 @@ const seedAll = async () => {
   process.exit(0);
 };
 
-seedAll();
+//seedAll();
