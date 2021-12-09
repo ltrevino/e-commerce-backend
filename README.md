@@ -1,12 +1,14 @@
 # e-commerce-back-end
 ## Description
-
-    
-## Installation 
-1.  Have Node.js downloaded
-2. run `npm install` 
-3. from mysql run `source db/schema.sql`
-4. start server to load schema with `npm start`
+This is a core backend to manage products, categories and tags.
 
 ## Usage
 
+- `npm install` 
+- In mysql `source db/schema.sql`
+- npm start
+
+
+## Live DEMO
+
+https://drive.google.com/file/d/13n9WuKZ3nCxsYnUvSTSmWRC62rg5fTVn/view?usp=sharing
